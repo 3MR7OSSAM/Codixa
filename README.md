@@ -1,5 +1,5 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-# Codixa - Flutter Web UI Generator
+# Codixa UI (Flutter Web) - UI Generator Website
 
 Codixa is a Flutter-based web application that leverages the power of the Gemini API to generate Flutter UI components based on user prompts. The generated UI is displayed directly on the website, providing users with an instant preview of their prompt results. Additionally, Codixa features a library of popular Flutter widgets, allowing users to explore and view the source code of these widgets.
 
@@ -9,6 +9,19 @@ Codixa is a Flutter-based web application that leverages the power of the Gemini
 - **Widget Library**: Browse through a collection of famous Flutter widgets. Select any widget to view its Flutter code.
 - **Responsive Design**: The website is optimized for various screen sizes, ensuring a seamless experience on both desktop and mobile devices.
 - **Code Display**: View the Flutter code of generated UIs and library widgets directly on the website, making it easy to learn and implement.
+
+
+## Some Screenshots
+
+![1](https://github.com/user-attachments/assets/dc8726bc-29c8-4bb4-84bf-01b37cde0d57)
+![2](https://github.com/user-attachments/assets/43d02e70-2061-467d-8ede-853002dadafb)
+![3](https://github.com/user-attachments/assets/038fe3cd-c476-4f78-be5d-fee1acce0ac7)
+![4](https://github.com/user-attachments/assets/4d5c6614-03cd-4487-9718-0075f7085e48)
+![5](https://github.com/user-attachments/assets/124b8c85-cea8-4625-b0d3-4430c54fff0f)
+![6](https://github.com/user-attachments/assets/fc0bf3b3-90d5-47c2-a0dc-fbfb2523e03a)
+![7](https://github.com/user-attachments/assets/b010975b-4274-4020-b1e1-f57c7c9e0383)
+
+
 
 ## Installation
 
